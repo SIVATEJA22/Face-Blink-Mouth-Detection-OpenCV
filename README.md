@@ -60,7 +60,6 @@ pip install opencv-python mediapipe numpy scipy
 ## Connect with Me
 
 - GitHub: [SIVATEJA22](https://github.com/SIVATEJA22)
-- LinkedIn: [Add your LinkedIn profile]
 
 ## License
 
